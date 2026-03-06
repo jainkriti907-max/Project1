@@ -61,18 +61,18 @@ PACKAGING_FORMATS = {
 }
 
 LAUNCH_TIMING = {
-    "Shilajit": "Q3 2025 — pre-monsoon energy demand + festive gifting season",
-    "Berberine": "Q2 2025 — summer metabolic focus + PCOS awareness month",
-    "Lions Mane Mushroom": "Q4 2025 — back-to-work cognitive season + Diwali gifting",
-    "Magnesium Glycinate": "Q1 2025 — new year sleep resolution spike",
-    "Cycle Syncing": "Q2 2025 — womens health awareness month, zero competition window",
-    "Collagen Peptides": "Q1 2025 — wedding season prep + skin glow demand",
-    "Cold Plunge Therapy": "Q4 2025 — winter recovery trend + New Year biohacking",
-    "NAD+ Longevity": "Q3 2026 — allow 12 months to build category education",
-    "Creatine for Women": "Q1 2025 — new year fitness resolution, women-first positioning",
-    "Ashwagandha": "Q3 2025 — exam stress season + festive gifting",
-    "Beef Liver Supplements": "Q2 2025 — ancestral nutrition wave, first-mover advantage closing",
-    "Red Light Therapy": "Q4 2025 — winter skin care demand + gifting season"
+    "Shilajit": "Q3 2026 — peak pre-monsoon demand, festive gifting window",
+    "Berberine": "Q2 2026 — metabolic health season, 4-6 months from mainstream",
+    "Lions Mane Mushroom": "Q3 2026 — cognitive performance wave accelerating now",
+    "Magnesium Glycinate": "Q2 2026 — sleep crisis conversation at all-time high",
+    "Cycle Syncing": "Q2 2026 — womens wellness category breakout imminent",
+    "Collagen Peptides": "Q3 2026 — beauty-from-within entering mass market phase",
+    "Cold Plunge Therapy": "Q2 2026 — biohacking moving mainstream, 3-5 months out",
+    "NAD+ Longevity": "Q1 2027 — longevity category 9-12 months from India mainstream",
+    "Creatine for Women": "Q2 2026 — women-first fitness narrative peaking now",
+    "Ashwagandha": "Q2 2026 — second growth wave, gummy format still wide open",
+    "Beef Liver Supplements": "Q3 2026 — ancestral nutrition crossing into urban wellness",
+    "Red Light Therapy": "Q3 2026 — device category 5-6 months from mass awareness",
 }
 
 
