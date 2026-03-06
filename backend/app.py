@@ -38,7 +38,7 @@ def health():
     }), 200
 
 
-@app.route('/scan', methods=['POST', 'OPTIONS'])
+@app.route('/scan', methods=['GET', 'POST', 'OPTIONS'])
 def scan():
     """
     Run the Mosaic Trends Radar analysis pipeline.
