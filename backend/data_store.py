@@ -22,7 +22,7 @@ Region focus: India (IN) + Global wellness signals
 GOOGLE_TRENDS_DATA = {
     "Shilajit": {
         "velocity_score": 94,
-        "peak_month": "January 2025",
+        "peak_month": "February 2026",
         "yoy_growth": "+312%",
         "related_queries": ["shilajit benefits for men", "shilajit resin vs capsule", "himalayan shilajit price"],
         "breakout_queries": ["shilajit testosterone", "shilajit side effects"],
@@ -31,7 +31,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Berberine": {
         "velocity_score": 82,
-        "peak_month": "October 2024",
+        "peak_month": "October 2026",
         "yoy_growth": "+287%",
         "related_queries": ["berberine weight loss", "berberine vs metformin", "berberine PCOS"],
         "breakout_queries": ["berberine ozempic natural", "berberine blood sugar"],
@@ -40,7 +40,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Lions Mane Mushroom": {
         "velocity_score": 86,
-        "peak_month": "November 2024",
+        "peak_month": "November 2026",
         "yoy_growth": "+198%",
         "related_queries": ["lion's mane brain fog", "lion's mane coffee", "mushroom supplement India"],
         "breakout_queries": ["lion's mane neurogenesis", "functional mushroom powder"],
@@ -49,7 +49,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Magnesium Glycinate": {
         "velocity_score": 79,
-        "peak_month": "December 2024",
+        "peak_month": "December 2026",
         "yoy_growth": "+156%",
         "related_queries": ["magnesium glycinate sleep", "magnesium glycinate vs oxide", "best magnesium supplement India"],
         "breakout_queries": ["magnesium anxiety", "magnesium deficiency signs"],
@@ -58,7 +58,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Cycle Syncing": {
         "velocity_score": 77,
-        "peak_month": "February 2025",
+        "peak_month": "February 2027",
         "yoy_growth": "+423%",
         "related_queries": ["cycle syncing diet", "cycle syncing workout", "seed cycling hormones"],
         "breakout_queries": ["luteal phase supplements", "follicular phase nutrition"],
@@ -76,7 +76,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Cold Plunge Therapy": {
         "velocity_score": 68,
-        "peak_month": "August 2024",
+        "peak_month": "August 2026",
         "yoy_growth": "+167%",
         "related_queries": ["ice bath benefits", "cold shower therapy", "Andrew Huberman cold"],
         "breakout_queries": ["cold plunge at home India", "cold water immersion recovery"],
@@ -85,7 +85,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "NAD+ Longevity": {
         "velocity_score": 64,
-        "peak_month": "September 2024",
+        "peak_month": "September 2026",
         "yoy_growth": "+134%",
         "related_queries": ["NMN supplement India", "NAD+ anti aging", "nicotinamide riboside"],
         "breakout_queries": ["longevity supplements 2025", "Bryan Johnson supplements"],
@@ -94,7 +94,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Creatine for Women": {
         "velocity_score": 73,
-        "peak_month": "January 2025",
+        "peak_month": "January 2026",
         "yoy_growth": "+211%",
         "related_queries": ["creatine for women benefits", "creatine weight gain women", "creatine skin benefits"],
         "breakout_queries": ["women creatine monohydrate", "creatine cognitive women"],
@@ -103,7 +103,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Ashwagandha": {
         "velocity_score": 72,
-        "peak_month": "October 2024",
+        "peak_month": "October 2026",
         "yoy_growth": "+42%",
         "related_queries": ["ashwagandha KSM-66", "ashwagandha sleep anxiety", "best ashwagandha India"],
         "breakout_queries": ["ashwagandha gummies", "ashwagandha cortisol"],
@@ -112,7 +112,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Beef Liver Supplements": {
         "velocity_score": 61,
-        "peak_month": "November 2024",
+        "peak_month": "November 2026",
         "yoy_growth": "+178%",
         "related_queries": ["desiccated liver capsules", "organ meat supplement India", "ancestral supplements"],
         "breakout_queries": ["nose to tail nutrition", "beef liver vs multivitamin"],
@@ -121,7 +121,7 @@ GOOGLE_TRENDS_DATA = {
     },
     "Red Light Therapy": {
         "velocity_score": 66,
-        "peak_month": "December 2024",
+        "peak_month": "December 2026",
         "yoy_growth": "+143%",
         "related_queries": ["red light therapy skin India", "photobiomodulation device", "red light panel benefits"],
         "breakout_queries": ["red light therapy hair loss", "infrared therapy at home"],
