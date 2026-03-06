@@ -17,15 +17,7 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Allow CORS from Vercel frontend and localhost
-CORS(app, resources={
-    r"/*": {
-        "origins": [
-            "http://localhost:3000",
-            "https://*.vercel.app",
-            os.getenv("FRONTEND_URL", "*"),
-        ]
-    }
-})
+CORS(app)
 
 
 @app.route('/health', methods=['GET'])
